@@ -3,3 +3,6 @@ This is a simple lua script providing an exclusive solo switch trigger add-on fo
 
 # LICENSE
 The original author of this script put it under the [MIT license](LICENSE).
+
+# Resources
+The original author is listing https://github.com/Ardour/ardour/tree/master/scripts as a source for inspiration to create new scripts of this kind and recommends it for others to study.
