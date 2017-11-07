@@ -1,4 +1,4 @@
-ardour { ["type"] = "EditorAction", name = "Solo Excusive Switch",
+ardour { ["type"] = "EditorAction", name = "Solo Exclusive Switch",
 	license     = "MIT",
 	author      = "JV",
 	description = [[Allows for soloing exclusive track with keyboard]]
